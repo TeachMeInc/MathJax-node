@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "jsdom": "7.*",
-    "mathjax": "*",
+    "mathjax": "2.7.0",
     "speech-rule-engine": "*",
     "yargs": "3.*"
   },
